@@ -1,28 +1,53 @@
-<!-- README.md -->
-
-<!-- Header Image -->
-<img src="https://www.enockdsoko.com/static/media/profile_picture.9f5d5bceb4b75f87fb9b.jpg" alt="Profile Picture" style="width:100%;">
-
-<h1>Welcome to My GitHub Profile</h1>
+# Welcome to My GitHub Profile
 
 ## About Me
-<p style="text-align: justify;">
-I am a developer with a passion for creating innovative solutions. You can find more about my work and projects on my <a href="https://enockdsoko.com" target="_blank">website</a>.
-</p>
+I am a developer with a passion for creating innovative solutions. You can find more about my work and projects on my [website](https://enockdsoko.com).
 
-<!-- Portfolio Image -->
-<img src="https://your-image-url.com/portfolio.jpg" alt="Portfolio Image" style="width:100%;">
+---
+
+## Table of Contents
+- [Projects](#projects)
+- [Skills](#skills)
+- [Experience](#experience)
+- [Education](#education)
+- [Contact Me](#contact-me)
+
+---
 
 ## Projects
-<ul>
-  <li><a href="https://github.com/Enoch18/Project1" target="_blank">Project 1</a></li>
-  <li><a href="https://github.com/Enoch18/Project2" target="_blank">Project 2</a></li>
-</ul>
+Here are some of my notable projects:
+- **[Project 1](https://github.com/Enoch18/Project1)**: Brief description of Project 1.
+- **[Project 2](https://github.com/Enoch18/Project2)**: Brief description of Project 2.
+
+---
+
+## Skills
+- **Languages**: JavaScript, Python, Java, C++
+- **Frameworks**: React, Node.js, Django
+- **Tools**: Git, Docker, Kubernetes
+- **Databases**: MySQL, MongoDB, PostgreSQL
+
+---
+
+## Experience
+- **Company Name** (Job Title, Duration)
+  - Description of your role and achievements.
+- **Company Name** (Job Title, Duration)
+  - Description of your role and achievements.
+
+---
+
+## Education
+- **University Name** (Degree, Year)
+  - Description of your studies and achievements.
+- **University Name** (Degree, Year)
+  - Description of your studies and achievements.
+
+---
 
 ## Contact Me
-<p style="text-align: justify;">
-Feel free to reach out via <a href="mailto:your-email@example.com">email</a>.
-</p>
+Feel free to reach out via [email](mailto:your-email@example.com).
 
-<!-- Footer Image -->
-<img src="https://your-image-url.com/footer.jpg" alt="Footer Image" style="width:100%;">
+---
+
+Thank you for visiting my GitHub profile!
