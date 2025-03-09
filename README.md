@@ -16,22 +16,22 @@ In addition to coding, I enjoy mentoring junior developers, leading teams, and c
 ## 📚 Projects & Contributions  
 Here are a few of my favorite projects:
 
-### 1. [**Financial Management System API**](https://github.com/YourGitHubUsername/FinancialManagementAPI)  
+### 1. [**Financial Management System API**](https://github.com/Enoch18/financial_transactions_system_api)  
 An API built with a **microservices architecture** using **Laravel**. The system utilizes **RabbitMQ** for messaging and **MySQL** for the database.  
 🔗 **Tech Stack:** Laravel, RabbitMQ, MySQL  
 🌍 **Live Demo:** [Link to Demo]
 
-### 2. [**Financial Management System UI**](https://github.com/YourGitHubUsername/FinancialManagementUI)  
+### 2. [**Financial Management System UI**](https://github.com/Enoch18/financial_transaction_ui)  
 A user interface for the **Financial Management System** created in **Next.js**.  
 🔗 **Tech Stack:** Next.js, React, TailwindCSS  
 🌍 **Live Demo:** [Link to Demo]
 
-### 3. [**Health Insurance Management System**](https://github.com/YourGitHubUsername/HealthInsuranceManagement)  
+### 3. [**Health Insurance Management System**](https://github.com/Enoch18/health_insurance)  
 A **Health Insurance Management System** built with **Laravel**, **Inertia.js**, and **React** for seamless user interactions.  
 🔗 **Tech Stack:** Laravel, Inertia.js, React  
 🌍 **Live Demo:** [Link to Demo]
 
-### 4. [**Inventory Management System**](https://github.com/YourGitHubUsername/InventoryManagement)  
+### 4. [**Inventory Management System**](https://github.com/Enoch18/ims)  
 A Laravel + Livewire-based inventory management system with **real-time updates** and **user management**.  
 🔗 **Tech Stack:** Laravel, Livewire, MySQL, TailwindCSS, Pusher  
 🌍 **Live Demo:** [Link to Demo]
