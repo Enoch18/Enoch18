@@ -34,7 +34,7 @@ A **Health Insurance Management System** built with **Laravel**, **Inertia.js**,
 ### 4. [**Inventory Management System**](https://github.com/Enoch18/ims)  
 A Laravel + Livewire-based inventory management system with **real-time updates** and **user management**.  
 🔗 **Tech Stack:** Laravel, Livewire, MySQL, TailwindCSS, Pusher  
-🌍 **Live Demo:** [Link to Demo]
+🌍 **Live Demo:** [Link to Demo](http://ec2-52-207-221-160.compute-1.amazonaws.com)
 
 ---
 
