@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Enock Dalitso Soko  
-Welcome to my GitHub profile! I'm a passionate **Technical Lead**, **Senior Software Developer**, **DevOps Engineer**, **Solution Architect** with expertise in **Laravel**, **React**, and **Cloud Technologies**.
+Welcome to my GitHub profile! I'm a passionate **Technical Lead**, **Senior Software Developer**, **DevOps Engineer**, **Solution Architect** with expertise in **Laravel**, **React**, **Python**, **Next.js**, **TypeScript**, and **Cloud Technologies**.
 
 🔧 **Languages & Tools:**  
-![PHP](https://img.shields.io/badge/PHP-8.0-blue?logo=php) ![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel) ![React](https://img.shields.io/badge/React-17-blue?logo=react) ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js) ![MySQL](https://img.shields.io/badge/MySQL-orange?logo=mysql) ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker) ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws)
+![PHP](https://img.shields.io/badge/PHP-8.0-blue?logo=php) ![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel) ![React](https://img.shields.io/badge/React-17-blue?logo=react) ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js) ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python) ![MySQL](https://img.shields.io/badge/MySQL-orange?logo=mysql) ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker) ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws) ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js) ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
 
 ---
 
