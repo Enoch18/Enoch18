@@ -41,14 +41,12 @@ A **live customer support chatbot** with real-time messaging and AI-powered resp
 ## 🌍 Let's Connect!  
 Feel free to reach out if you want to collaborate on exciting projects or just chat about software development and new technologies.
 
-🔗 **[Website](https://www.yourportfolio.com)**  
-🔗 **[LinkedIn](https://www.linkedin.com/in/your-profile)**  
-🔗 **[Twitter](https://twitter.com/your-profile)**  
-
+🔗 **[Website](https://www.enockdsoko.com)**  
+🔗 **[LinkedIn](https://www.linkedin.com/in/enock-d-soko/)**  
 ---
 
 ## 📊 GitHub Stats  
-![YourGitHubUsername's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![YourGitHubUsername's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Enoch18&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ---
 
