@@ -29,7 +29,7 @@ A user interface for the **Financial Management System** created in **Next.js**.
 ### 3. [**Health Insurance Management System**](https://github.com/Enoch18/health_insurance)  
 A **Health Insurance Management System** built with **Laravel**, **Inertia.js**, and **React** for seamless user interactions.  
 🔗 **Tech Stack:** Laravel, Inertia.js, React  
-🌍 **Live Demo:** [Link to Demo]
+🌍 **Live Demo:** [Link to Demo](http://ec2-18-212-61-128.compute-1.amazonaws.com)
 
 ### 4. [**Inventory Management System**](https://github.com/Enoch18/ims)  
 A Laravel + Livewire-based inventory management system with **real-time updates** and **user management**.  
