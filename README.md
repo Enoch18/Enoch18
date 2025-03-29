@@ -24,7 +24,7 @@ An API built with a **microservices architecture** using **Laravel**. The system
 ### 2. [**Financial Management System UI**](https://github.com/Enoch18/financial_transaction_ui)  
 A user interface for the **Financial Management System** created in **Next.js**.  
 🔗 **Tech Stack:** Next.js, React, TailwindCSS  
-🌍 **Live Demo:** [Link to Demo]
+🌍 **Live Demo:** [Link to Demo](https://financial-transaction-ui.vercel.app)
 
 ### 3. [**Health Insurance Management System**](https://github.com/Enoch18/health_insurance)  
 A **Health Insurance Management System** built with **Laravel**, **Inertia.js**, and **React** for seamless user interactions.  
